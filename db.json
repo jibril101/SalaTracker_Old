@@ -1,0 +1,199 @@
+{
+  "British Columbia - Masjid Omar Al-Farouq": {
+    "name": "Masjid Omar Al-Farouq",
+    "_address": "1659 E 10th Ave, Vancouver, BC V5N 1X6, Canada",
+    "gpsCord": { "lat": "49.2615402", "log": "-123.0706445" },
+    "Fajr": { "azan": "5:15", "iqama": "5:30" },
+    "Duhr": { "azan": "13:30", "iqama": "13:40" },
+    "Asr": { "azan": "17:45", "iqama": "18:0" },
+    "Maghrib": { "azan": "19:53", "iqama": "19:58" },
+    "Isha": { "azan": "21:27", "iqama": "21:32" }
+  },
+  "British Columbia - Fraserview Muslim Community Services": {
+    "name": "Fraserview Muslim Community Services",
+    "_address": "6436 Fraser St, Vancouver, BC V5W 3A6, Canada",
+    "gpsCord": { "lat": "49.2261282", "log": "-123.09060039999997" },
+    "Fajr": { "azan": "5:30", "iqama": "5:40" },
+    "Duhr": { "azan": "14:0", "iqama": "14:10" },
+    "Asr": { "azan": "18:10", "iqama": "18:20" },
+    "Maghrib": { "azan": "19:55", "iqama": "19:55" },
+    "Isha": { "azan": "21:30", "iqama": "21:40" }
+  },
+  "British Columbia - Masjid Ajyal": {
+    "name": "Masjid Ajyal",
+    "_address": "181 Keefer Pl, Vancouver, BC V6B",
+    "gpsCord": { "lat": "49.28018609999999", "log": "-123.10791649999999" },
+    "Fajr": { "azan": "5:1", "iqama": "5:20" },
+    "Duhr": { "azan": "13:12", "iqama": "13:30" },
+    "Asr": { "azan": "16:52", "iqama": "17:15" },
+    "Maghrib": { "azan": "19:50", "iqama": "19:55" },
+    "Isha": { "azan": "21:23", "iqama": "21:35" }
+  },
+  "British Columbia - Muslim Association of Canada": {
+    "name": "Muslim Association of Canada",
+    "_address": "2122 Kingsway, Vancouver, BC V5N 2T5, Canada",
+    "gpsCord": { "lat": "49.2440897", "log": "-123.06350989999999" },
+    "Fajr": { "azan": "4:46", "iqama": "5:15" },
+    "Duhr": { "azan": "13:19", "iqama": "13:45" },
+    "Asr": { "azan": "17:50", "iqama": "18:0" },
+    "Maghrib": { "azan": "19:56", "iqama": "20:10" },
+    "Isha": { "azan": "21:29", "iqama": "22:0" }
+  },
+  "British Columbia - Masjid Ul Haqq": {
+    "name": "Masjid Ul Haqq",
+    "_address": "4162 Welwyn St, Vancouver, BC V5N 3Z2, Canada",
+    "gpsCord": { "lat": "49.2479412", "log": "-123.0695589" },
+    "Fajr": { "azan": "5:30", "iqama": "5:40" },
+    "Duhr": { "azan": "13:30", "iqama": "13:40" },
+    "Asr": { "azan": "17:50", "iqama": "18:0" },
+    "Maghrib": { "azan": "19:57", "iqama": "19:57" },
+    "Isha": { "azan": "21:22", "iqama": "21:32" }
+  },
+  "British Columbia - Masjid Al Iman @ Metrotown": {
+    "name": "Masjid Al Iman @ Metrotown",
+    "_address": "6125 Sussex Ave, Burnaby, BC V5H 4G1",
+    "gpsCord": { "lat": "49.2291191", "log": "-122.99915090000002" },
+    "Fajr": { "azan": "4:46", "iqama": "5:30" },
+    "Duhr": { "azan": "13:19", "iqama": "13:45" },
+    "Asr": { "azan": "17:50", "iqama": "18:0" },
+    "Maghrib": { "azan": "19:56", "iqama": "20:1" },
+    "Isha": { "azan": "21:29", "iqama": "21:45" }
+  },
+  "British Columbia - Masjid Al Salam": {
+    "name": "Masjid Al Salam",
+    "_address": "5060 Canada Way, Burnaby, BC V5E 3N2",
+    "gpsCord": { "lat": "49.23999389999999", "log": "-122.96409649999998" },
+    "Fajr": { "azan": "5:30", "iqama": "5:40" },
+    "Duhr": { "azan": "13:30", "iqama": "13:40" },
+    "Asr": { "azan": "17:50", "iqama": "18:0" },
+    "Maghrib": { "azan": "19:57", "iqama": "20:2" },
+    "Isha": { "azan": "21:22", "iqama": "21:32" }
+  },
+  "British Columbia - Musalla Tiba": {
+    "name": "Musalla Tiba",
+    "_address": "726 12th St, New Westminster, BC V3M 2N1, Canada",
+    "gpsCord": { "lat": "49.209927", "log": "-122.93366639999999" },
+    "Fajr": { "azan": "4:38", "iqama": "5:30" },
+    "Duhr": { "azan": "13:21", "iqama": "13:40" },
+    "Asr": { "azan": "17:47", "iqama": "18:0" },
+    "Maghrib": { "azan": "19:57", "iqama": "20:2" },
+    "Isha": { "azan": "21:22", "iqama": "21:40" }
+  },
+  "British Columbia - Masjid Al Rahman": {
+    "_address": "1398 15th St W, North Vancouver, BC V7P 1N2",
+    "gpsCord": { "lat": "49.3223764", "log": "-123.11299500000001" },
+    "Fajr": { "azan": "4:58", "iqama": "5:23" },
+    "Duhr": { "azan": "13:12", "iqama": "13:30" },
+    "Asr": { "azan": "16:53", "iqama": "17:3" },
+    "Maghrib": { "azan": "19:53", "iqama": "20:3" },
+    "Isha": { "azan": "21:26", "iqama": "21:36" }
+  },
+  "British Columbia - Surrey Jamea Masjid": {
+    "_address": "12407 72 Ave, Surrey, BC V3W 2M5, Canada",
+    "gpsCord": { "lat": "49.1342609", "log": "-122.87869610000001" },
+    "Fajr": { "azan": "05:30", "iqama": "05:40" },
+    "Duhr": { "azan": "01:30", "iqama": "01:40" },
+    "Asr": { "azan": "06:15", "iqama": "06:25" },
+    "Maghrib": { "azan": "08:16", "iqama": "08:16" },
+    "Isha": { "azan": "09:50", "iqama": "10:00" }
+  },
+  "British Columbia - Masjid Guildford": {
+    "_address": "15290 103A Ave, Surrey, BC V3R 7P8, Canada",
+    "gpsCord": { "lat": "49.190035", "log": "-122.79813639999998" },
+    "Fajr": { "azan": "4:38", "iqama": "5:30" },
+    "Duhr": { "azan": "13:21", "iqama": "13:40" },
+    "Asr": { "azan": "17:47", "iqama": "18:0" },
+    "Maghrib": { "azan": "19:57", "iqama": "20:2" },
+    "Isha": { "azan": "21:22", "iqama": "21:40" }
+  },
+  "British Columbia - Masjid-ur-Rahmah": {
+    "name": "Masjid-ur-Rahmah",
+    "_address": "13585 62 Ave, Surrey, BC V3X 2J3",
+    "gpsCord": { "lat": "49.1155618", "log": "-122.84568939999997" },
+    "Fajr": { "azan": "5:30", "iqama": "5:40" },
+    "Duhr": { "azan": "13:30", "iqama": "13:40" },
+    "Asr": { "azan": "18:10", "iqama": "18:20" },
+    "Maghrib": { "azan": "19:57", "iqama": "19:57" },
+    "Isha": { "azan": "21:30", "iqama": "21:40" }
+  },
+  "British Columbia - Masjid Al Huda": {
+    "name": "Masjid Al Huda",
+    "_address": "14136 Grosvenor Rd, Surrey, BC V3R 5G8, Canada",
+    "gpsCord": { "lat": "49.2070471", "log": "-122.83008230000002" },
+    "Fajr": { "azan": "5:40", "iqama": "5:50" },
+    "Duhr": { "azan": "13:30", "iqama": "13:40" },
+    "Asr": { "azan": "18:10", "iqama": "18:20" },
+    "Maghrib": { "azan": "19:57", "iqama": "20:2" },
+    "Isha": { "azan": "21:22", "iqama": "21:32" }
+  },
+  "British Columbia - Masjid Al Noor": {
+    "name": "Masjid Al Noor",
+    "_address": "13526 98a Ave, Surrey, BC V3T 1C8, Canada",
+    "gpsCord": { "lat": "49.1813868", "log": "-122.84761430000003" },
+    "Fajr": { "azan": "5:30", "iqama": "5:40" },
+    "Duhr": { "azan": "13:30", "iqama": "13:40" },
+    "Asr": { "azan": "18:0", "iqama": "18:10" },
+    "Maghrib": { "azan": "19:55", "iqama": "19:55" },
+    "Isha": { "azan": "21:30", "iqama": "21:40" }
+  },
+  "British Columbia - Abu Bakr Islamic Centre": {
+    "name": "Abu Bakr Islamic Centre",
+    "_address": "7375 144 St, Surrey, BC V3W 5S7, Canada",
+    "gpsCord": { "lat": "49.13688579999999", "log": "-122.82379070000002" },
+    "Fajr": { "azan": "5:30", "iqama": "5:40" },
+    "Duhr": { "azan": "13:50", "iqama": "14:0" },
+    "Asr": { "azan": "18:20", "iqama": "18:30" },
+    "Maghrib": { "azan": "19:57", "iqama": "19:57" },
+    "Isha": { "azan": "21:30", "iqama": "21:40" }
+  },
+  "British Columbia - Al Iman Islamic Centre Surrey": {
+    "name": "Al Iman Islamic Centre Surrey",
+    "_address": "13478 78 Ave #18, Surrey, BC V3W 8J6, Canada",
+    "gpsCord": { "lat": "49.1441277", "log": "-122.84892890000003" },
+    "Fajr": { "azan": "5:20", "iqama": "5:30" },
+    "Duhr": { "azan": "13:30", "iqama": "13:40" },
+    "Asr": { "azan": "17:30", "iqama": "17:40" },
+    "Maghrib": { "azan": "19:56", "iqama": "20:1" },
+    "Isha": { "azan": "21:30", "iqama": "21:40" }
+  },
+  "British Columbia - Amir Hamza Musalla": {
+    "name": "Amir Hamza Musalla",
+    "_address": "9250 Scott Rd, Surrey, BC V3V 4B7, Canada",
+    "gpsCord": { "lat": "49.1710563", "log": "-122.88998379999998" },
+    "Fajr": { "azan": "05:20", "iqama": "05:30" },
+    "Duhr": { "azan": "01:30", "iqama": "01:45" },
+    "Asr": { "azan": "06:10", "iqama": "06:20" },
+    "Maghrib": { "azan": "08:16", "iqama": "08:16" },
+    "Isha": { "azan": "09:50", "iqama": "10:00" }
+  },
+  "British Columbia - White Rock Mussallah": {
+    "name": "White Rock Mussallah",
+    "_address": "15531 24 Ave, Surrey, BC, Canada",
+    "gpsCord": { "lat": "49.0465297", "log": "-122.79191149999997" },
+    "Fajr": { "azan": "4:58", "iqama": "5:45" },
+    "Duhr": { "azan": "13:11", "iqama": "13:30" },
+    "Asr": { "azan": "16:52", "iqama": "19:0" },
+    "Maghrib": { "azan": "19:51", "iqama": "19:54" },
+    "Isha": { "azan": "21:25", "iqama": "21:30" }
+  },
+  "British Columbia - Masjid Jamea Richmond": {
+    "name": "Masjid Jamea Richmond",
+    "_address": "12300 Blundell Rd, Richmond, BC V6W 1B3, Canada",
+    "gpsCord": { "lat": "49.1546259", "log": "-123.0859643" },
+    "Fajr": { "azan": "4:47", "iqama": "5:30" },
+    "Duhr": { "azan": "13:45", "iqama": "13:45" },
+    "Asr": { "azan": "17:30", "iqama": "17:30" },
+    "Maghrib": { "azan": "19:58", "iqama": "19:58" },
+    "Isha": { "azan": "21:35", "iqama": "21:35" }
+  },
+  "British Columbia - Peace River Muslim Community": {
+    "name": "Peace River Muslim Community",
+    "_address": "9715 102 St, Fort St John, BC V1J 4B1, Canada",
+    "gpsCord": { "lat": "56.2441687", "log": "-120.85059939999996" },
+    "Fajr": { "azan": "4:16", "iqama": "4:45" },
+    "Duhr": { "azan": "13:3", "iqama": "13:30" },
+    "Asr": { "azan": "17:41", "iqama": "18:0" },
+    "Maghrib": { "azan": "19:56", "iqama": "20:1" },
+    "Isha": { "azan": "21:51", "iqama": "22:15" }
+  }
+}
